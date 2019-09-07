@@ -1,1 +1,3 @@
 this is a test!
+
+EDIT: We set up an SSH key!
